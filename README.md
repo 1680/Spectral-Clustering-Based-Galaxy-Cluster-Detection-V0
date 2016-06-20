@@ -1,4 +1,5 @@
-# Journal-manuscript-code
+**Spectral-Clustering-Based-Galaxy-Cluster-Detection-V0**
+*****************************************************
 This is the code used in the manuscript entitled “Spectral Clustering for Optical Confirmation and Redshift Estimation of  X-ray Selected Galaxy Cluster Candidates in the SDSS Stripe 82" Eman Mahmoud, Ali takey and Amin Shoukry (submitted to Astronomy and Computing Journal).
 
 **Purpose**
