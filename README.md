@@ -24,5 +24,7 @@ When the code is run from the "Main" file , please confirm "Change Folder" to ch
 * I have modified the code by "Ingo Bürk" for the basic spectral clustering http://www.mathworks.com/matlabcentral/fileexchange/34412-fast-and-efficient-spectral-clustering
 * I have rewitten the python script  for some functions of the cosmological calculator by "James Schombert" in matlab http://www.astro.ucla.edu/~wright/CosmoCalc.html http://www.astro.ucla.edu/~wright/CC.python.
 
-
+**Note**
+* Due to upload size limitations, we have seprated the data folders from the code folder. Please enclose them in the "InputData" folder at run time.
+* 
 **END**  
